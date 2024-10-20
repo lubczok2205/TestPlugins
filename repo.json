@@ -3,6 +3,6 @@
     "description": "Cloudstream extension Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/lubczok2205/TestPlugins/edit/master/repo.json"
+      "https://raw.githubusercontent.com/lubczok2205/TestPlugins/builds/plugins.json"
     ]
 }
