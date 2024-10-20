@@ -1,8 +1,6 @@
 {
-    "name": "Cloudstream providers repository",
-    "description": "Cloudstream extension Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
-    ]
+  "name": "ObejrzyjTo",
+  "class": "com.twofoutfour.cloudstream.ObejrzyjToProvider",
+  "url": "https://www.obejrzyj.to",
+  "enabled": true
 }
